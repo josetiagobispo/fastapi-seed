@@ -1,6 +1,6 @@
 # API de Gerenciamento de Leads
 
-Desafio técnico — API para gerenciamento de Leads com Python, FastAPI e MongoDB.
+API para gerenciamento de Leads com Python, FastAPI e MongoDB.
 
 ## Arquitetura
 
